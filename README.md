@@ -11,6 +11,17 @@ https://ergonyc.github.io/data-pizza/
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
+  - sneaker-finder:   a refactor of my Insight project
+  - getting out of my garage:  how i set up a powerful GPU machine for my laptop to connect to.
+      - screen
+      - ssh tunnels
+      - BigPizza:  a badass numbercruncher in a PowerMac G5 box (dual boot with OSX Catalina)
+      
+  - sneaker-math:  Using a b-VAE to combine sneakers.  A potential sneaker desing aid.
+      - b-VAE implimentations: fastai vs. vanilla pytorch vs. tensorflow 2.0 vs. tensorflow+ tensorflow probability
+      
+  - sneaker-gen:  using text or images to generate potential sneakers.
+  - 
 
 ## What To Do Next?
 
